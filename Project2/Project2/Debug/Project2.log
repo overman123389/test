@@ -1,0 +1,5 @@
+﻿  源1.c
+D:\已复制_协同讲解视频\Project2\Project2\源1.c(17,11): warning C4013: “add”未定义；假设外部返回 int
+源1.obj : error LNK2019: 无法解析的外部符号 _add，函数 _winmain 中引用了该符号
+MSVCRTD.lib(exe_main.obj) : error LNK2019: 无法解析的外部符号 _main，函数 "int __cdecl invoke_main(void)" (?invoke_main@@YAHXZ) 中引用了该符号
+D:\已复制_协同讲解视频\Project2\Debug\Project2.exe : fatal error LNK1120: 2 个无法解析的外部命令
